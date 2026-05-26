@@ -4,10 +4,10 @@
 ---
 
 ## 📸 Project Image
-![Air Mouse Setup](./your-image-her.jpg)
+
+![Air Mouse Setup](./your-image-here.jpg)
 
 ---
-
 
 ## 📌 Overview
 
@@ -96,7 +96,11 @@ BAUD = 9600
 python mouse_control.py
 ```
 
+---
+
 ## 🔧 Firmware Details (`main.c`)
+
+The firmware was developed and compiled using **Keil µVision5** with the STM32F4xx CMSIS device pack.
 
 | Peripheral | Configuration |
 |---|---|
