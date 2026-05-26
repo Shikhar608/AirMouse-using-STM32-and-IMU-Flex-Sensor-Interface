@@ -5,7 +5,7 @@
 
 ## 📸 Project Image
 
-![Air Mouse Setup](./your-image-here.jpg)
+![Air Mouse Setup](./IMG20251202164316.jpg.jpg)
 
 ---
 
